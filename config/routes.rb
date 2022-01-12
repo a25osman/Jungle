@@ -10,7 +10,7 @@ Rails.application.routes.draw do
     post   :remove_item
   end
 
-  resources: admin
+  resources :about
 
   resources :orders, only: [:create, :show]
 
