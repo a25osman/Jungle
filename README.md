@@ -4,9 +4,9 @@ A mini e-commerce application built with Ruby 2.6 and Rails 4.2.
 
 ## Final Product
 
-!["Screenshot of Jungle homepage"]()
+!["Screenshot of Homepage"](https://raw.githubusercontent.com/a25osman/Jungle/master/docs/jungle_homepage.png)
 
-!["screenshot of customer cart"]()
+!["Screenshot of Customer Cart"](https://raw.githubusercontent.com/a25osman/Jungle/master/docs/jungle_cart.png)
 
 
 ## Stripe Testing
